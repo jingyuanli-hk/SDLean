@@ -8,9 +8,9 @@ This repository contains Lean 4 formalizations of results from the paper. The ma
 
 ## Structure
 
-- `src/FSD/OneDim.lean`: 1D (real line) formalization.
-- `src/FSD/MultiDim.lean`: N-dimensional formalization.
-- `src/Main.lean`: Entry point aggregating all modules.
+- OneDim.lean`: 1D (real line) formalization.
+- MultiDim.lean`: N-dimensional formalization.
+- Main.lean`: Entry point aggregating all modules.
 
 ## Building
 
