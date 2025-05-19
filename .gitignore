@@ -1,0 +1,6 @@
+lake-packages/
+build/
+.lean_cache/
+*.olean
+*.log
+*.tmp
