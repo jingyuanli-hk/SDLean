@@ -1,6 +1,6 @@
 # SD-Lean
 
-Formal Lean 4 development based on  "Geometric Formalization of First-Order Stochastic Dominance in N Dimensions:  A Tractable Path to Multi-Dimensional Economic Decision Analysis"  [FSD_ND.pdf](./FSD_ND.pdf).
+Formal Lean 4 development based on  "Geometric Formalization of First-Order Stochastic Dominance in N Dimensions:  A Tractable Path to Multi-Dimensional Economic Decision Analysis"  [(./FSD_ND_arxiv.pdf)].
 
 ## Overview
 
