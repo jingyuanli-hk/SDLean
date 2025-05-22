@@ -2,7 +2,7 @@
 Copyright (c) 2025 Li Jingyuan . All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
 Author: Li Jingyuan
-Extension for N-dimensional FSD: GitHub Copilot
+Extension for N-dimensional FSD
 -/
 import Mathlib.Analysis.Calculus.Deriv.Basic
 
